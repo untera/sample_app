@@ -5,10 +5,10 @@ ruby '2.1.1'
 
 gem 'rails', '4.0.3'
 gem 'pg', '0.15.1'
-
+gem 'bootstrap-sass', '2.3.2.0'
 
 # Uncomment this line on OS X.
-#gem 'growl', '1.0.3'
+gem 'growl', '1.0.3'
 
 
 group :development, :test do
